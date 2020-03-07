@@ -5,7 +5,6 @@ pipeline {
             steps {
                 tidy -q -e *.html
                 }
-            }
         }
         stage('Upload to AWS') {
             steps {
