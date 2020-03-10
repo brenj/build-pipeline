@@ -42,6 +42,6 @@ Grading (by Udacity)
 
 Criteria                              |Highest Grade Possible  |Grade Recieved
 --------------------------------------|------------------------|--------------------
-AWS Setup                             |Meets Specifications    |
-Running Jenkins                       |Meets Specifications    |
-Working Pipeline                      |Meets Specifications    |
+AWS Setup                             |Meets Specifications    |Meets Specifications
+Running Jenkins                       |Meets Specifications    |Meets Specifications
+Working Pipeline                      |Meets Specifications    |Meets Specifications
